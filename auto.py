@@ -1,6 +1,6 @@
 import os
 import json
-import urllib.request
+import urllib.parse
 import struct
 
 MAPS_DIR = "./maps"
@@ -14,7 +14,7 @@ def get_sspm_metadata(filepath):
             if sig != b"SS+m": return None
             
             version = struct.unpack("<H", f.read(2))[0]
-            f.read(4) # Reserved space
+            f.read(4)
 
             if version == 1:
                 f.seek(10)
@@ -28,7 +28,7 @@ def get_sspm_metadata(filepath):
                 f.seek(0x2a)
                 difficulty = struct.unpack("<B", f.read(1))[0] - 1
                 
-                f.seek(0x80) # Start of string data
+                f.seek(0x80)
                 def read_sspm_str():
                     length = struct.unpack("<H", f.read(2))[0]
                     return f.read(length).decode('utf-8', 'ignore')
@@ -51,7 +51,6 @@ def get_sspm_metadata(filepath):
 
 def main():
     master_data = {}
-
     new_index = {}
 
     if not os.path.exists(MAPS_DIR):
@@ -65,9 +64,11 @@ def main():
         file_id = filename[:-5]
         file_path = os.path.join(MAPS_DIR, filename)
         
+        encoded_filename = urllib.parse.quote(filename)
+        
         if file_id in master_data:
             entry = master_data[file_id].copy()
-            entry["download"] = GITHUB_RAW_BASE + filename
+            entry["download"] = GITHUB_RAW_BASE + encoded_filename
             new_index[file_id] = entry
         else:
             meta = get_sspm_metadata(file_path)
@@ -81,7 +82,7 @@ def main():
                     "name": meta["name"],
                     "song": meta.get("song", meta["name"]),
                     "author": meta["author"],
-                    "download": GITHUB_RAW_BASE + filename,
+                    "download": GITHUB_RAW_BASE + encoded_filename,
                     "version": 1,
                     "difficulty": difficulty,
                     "difficulty_name": "LOGIC?",
@@ -98,7 +99,7 @@ def main():
                 new_index[file_id] = {
                     "id": file_id,
                     "name": file_id.replace("_", " "),
-                    "download": GITHUB_RAW_BASE + filename,
+                    "download": GITHUB_RAW_BASE + encoded_filename,
                     "tags": ["ss_archive"]
                 }
 
