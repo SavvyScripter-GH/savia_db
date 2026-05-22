@@ -1,4 +1,134 @@
 {
+  "ssqe_export_-_allusionist_-_7_7_-_shizumu_~(emi)(kyoki)": {
+    "id": "ssqe_export_-_allusionist_-_7_7_-_shizumu_~(emi)(kyoki)",
+    "download": "https://raw.githubusercontent.com/SavvyScripter-GH/savia_db/refs/heads/main/maps/ssqe_export_-_allusionist_-_7_7_-_shizumu_~(emi)(kyoki).sspm",
+    "version": 1,
+    "name": "Kurokotei feat. Nanoha - The King in Yellow",
+    "song": "Kurokotei feat. Nanoha - The King in Yellow",
+    "author": [
+      "azer"
+    ],
+    "difficulty": 4,
+    "difficulty_name": "\u52a9",
+    "stars": 0,
+    "length_ms": 354316,
+    "note_count": 4444,
+    "has_cover": false,
+    "broken": false,
+    "tags": [
+      "ss_archive"
+    ],
+    "content_warnings": [],
+    "note_data_offset": 5698631,
+    "note_data_length": 37640,
+    "music_format": "mp3",
+    "music_offset": 321,
+    "music_length": 5698296
+  },
+  "zitro - kurokotei feat_ nanoha - the king in yellow": {
+    "id": "zitro - kurokotei feat_ nanoha - the king in yellow",
+    "download": "https://raw.githubusercontent.com/SavvyScripter-GH/savia_db/refs/heads/main/maps/zitro - kurokotei feat_ nanoha - the king in yellow.sspm",
+    "version": 1,
+    "name": "Kurokotei feat. Nanoha - The King in Yellow",
+    "song": "Kurokotei feat. Nanoha - The King in Yellow",
+    "author": [
+      "azer"
+    ],
+    "difficulty": 4,
+    "difficulty_name": "\u52a9",
+    "stars": 0,
+    "length_ms": 354316,
+    "note_count": 4444,
+    "has_cover": false,
+    "broken": false,
+    "tags": [
+      "ss_archive"
+    ],
+    "content_warnings": [],
+    "note_data_offset": 5698631,
+    "note_data_length": 37640,
+    "music_format": "mp3",
+    "music_offset": 321,
+    "music_length": 5698296
+  },
+  "rak - igorrr - cicadidae": {
+    "id": "rak - igorrr - cicadidae",
+    "download": "https://raw.githubusercontent.com/SavvyScripter-GH/savia_db/refs/heads/main/maps/rak - igorrr - cicadidae.sspm",
+    "version": 1,
+    "name": "Igorrr - Cicadidae",
+    "song": "Igorrr - Cicadidae",
+    "author": [
+      "azer"
+    ],
+    "difficulty": 4,
+    "difficulty_name": "\u52a9",
+    "stars": 0,
+    "length_ms": 354316,
+    "note_count": 4444,
+    "has_cover": false,
+    "broken": false,
+    "tags": [
+      "ss_archive"
+    ],
+    "content_warnings": [],
+    "note_data_offset": 5698631,
+    "note_data_length": 37640,
+    "music_format": "mp3",
+    "music_offset": 321,
+    "music_length": 5698296
+  },
+  "minty_igorr_-_brutal_swing": {
+    "id": "minty_igorr_-_brutal_swing",
+    "download": "https://raw.githubusercontent.com/SavvyScripter-GH/savia_db/refs/heads/main/maps/minty_igorr_-_brutal_swing.sspm",
+    "version": 1,
+    "name": "Igorr - Brutal Swing",
+    "song": "Igorr - Brutal Swing",
+    "author": [
+      "azer"
+    ],
+    "difficulty": 4,
+    "difficulty_name": "\u52a9",
+    "stars": 0,
+    "length_ms": 354316,
+    "note_count": 4444,
+    "has_cover": false,
+    "broken": false,
+    "tags": [
+      "ss_archive"
+    ],
+    "content_warnings": [],
+    "note_data_offset": 5698631,
+    "note_data_length": 37640,
+    "music_format": "mp3",
+    "music_offset": 321,
+    "music_length": 5698296
+  },
+  "dyamodash_igorrr_-_paranoid_bulldozer_italiano": {
+    "id": "dyamodash_igorrr_-_paranoid_bulldozer_italiano",
+    "download": "https://raw.githubusercontent.com/SavvyScripter-GH/savia_db/refs/heads/main/maps/dyamodash_igorrr_-_paranoid_bulldozer_italiano.sspm",
+    "version": 1,
+    "name": "Igorrr - Paranoid Bulldozer Italiano",
+    "song": "Igorrr - Paranoid Bulldozer Italiano",
+    "author": [
+      "azer"
+    ],
+    "difficulty": 4,
+    "difficulty_name": "\u52a9",
+    "stars": 0,
+    "length_ms": 354316,
+    "note_count": 4444,
+    "has_cover": false,
+    "broken": false,
+    "tags": [
+      "ss_archive"
+    ],
+    "content_warnings": [],
+    "note_data_offset": 5698631,
+    "note_data_length": 37640,
+    "music_format": "mp3",
+    "music_offset": 321,
+    "music_length": 5698296
+  },
   "azer_amen-chan_-_you_are_the_crystal_gems_i_am_not": {
     "id": "azer_amen-chan_-_you_are_the_crystal_gems_i_am_not",
     "download": "https://raw.githubusercontent.com/SavvyScripter-GH/savia_db/refs/heads/main/maps/azer_amen-chan_-_you_are_the_crystal_gems_i_am_not.sspm",
