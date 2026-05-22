@@ -11,6 +11,7 @@ __________
 3. find a way to make savvy difficulty not crash the game
 4. logo change to something new
 5. keybind switcher
+6. add vulnus judgement back when on 58 hit window
 __________
 
 # EXTRA IDEAS
