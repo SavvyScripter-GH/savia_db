@@ -2,10 +2,17 @@ import os
 import json
 import urllib.parse
 import struct
+import re
 
 MAPS_DIR = "./maps"
 OUTPUT_FILE = "index.json"
 GITHUB_RAW_BASE = "https://raw.githubusercontent.com/SavvyScripter-GH/savia_db/main/maps/"
+
+def sanitize_id(name):
+    clean = name.lower()
+    clean = re.sub(r'[^a-z0-9_]', '_', clean)
+    clean = re.sub(r'_+', '_', clean)
+    return clean.strip('_')
 
 def get_sspm_metadata(filepath):
     try:
@@ -50,7 +57,6 @@ def get_sspm_metadata(filepath):
     return None
 
 def main():
-    master_data = {}
     new_index = {}
 
     if not os.path.exists(MAPS_DIR):
@@ -61,47 +67,41 @@ def main():
     print(f"Found {len(files)} maps locally.")
 
     for filename in files:
-        file_id = filename[:-5]
         file_path = os.path.join(MAPS_DIR, filename)
         
         encoded_filename = urllib.parse.quote(filename)
         
-        if file_id in master_data:
-            entry = master_data[file_id].copy()
-            entry["download"] = GITHUB_RAW_BASE + encoded_filename
-            new_index[file_id] = entry
+        meta = get_sspm_metadata(file_path)
+        
+        safe_id = sanitize_id(filename[:-5])
+        
+        if meta:
+            difficulty = 0 if meta.get("difficulty", 4) == -1 else meta.get("difficulty", 4)
+            new_index[safe_id] = {
+                "id": safe_id,
+                "name": meta["name"],
+                "song": meta.get("song", meta["name"]),
+                "author": meta["author"],
+                "download": GITHUB_RAW_BASE + encoded_filename,
+                "version": 1,
+                "difficulty": difficulty,
+                "difficulty_name": "LOGIC?",
+                "stars": 0,
+                "has_cover": False,
+                "tags": ["ss_archive"],
+                "broken": False,
+                "note_count": meta.get("note_count", 0),
+                "length_ms": meta.get("length_ms", 0),
+                "music_format": "mp3",
+                "music_offset": 0
+            }
         else:
-            meta = get_sspm_metadata(file_path)
-            if meta:
-                if meta.get("difficulty", 4) == -1 :
-                    difficulty = 0
-                else:
-                    difficulty = meta.get("difficulty", 4)
-                new_index[file_id] = {
-                    "id": meta["id"],
-                    "name": meta["name"],
-                    "song": meta.get("song", meta["name"]),
-                    "author": meta["author"],
-                    "download": GITHUB_RAW_BASE + encoded_filename,
-                    "version": 1,
-                    "difficulty": difficulty,
-                    "difficulty_name": "LOGIC?",
-                    "stars": 0,
-                    "has_cover": False,
-                    "tags": ["ss_archive"],
-                    "broken": False,
-                    "note_count": meta.get("note_count", 0),
-                    "length_ms": meta.get("length_ms", 0),
-                    "music_format": "mp3",
-                    "music_offset": 0
-                }
-            else:
-                new_index[file_id] = {
-                    "id": file_id,
-                    "name": file_id.replace("_", " "),
-                    "download": GITHUB_RAW_BASE + encoded_filename,
-                    "tags": ["ss_archive"]
-                }
+            new_index[safe_id] = {
+                "id": safe_id,
+                "name": filename[:-5].replace("_", " "),
+                "download": GITHUB_RAW_BASE + encoded_filename,
+                "tags": ["ss_archive"]
+            }
 
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         json.dump(new_index, f, indent=2, ensure_ascii=False)
