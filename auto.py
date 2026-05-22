@@ -72,6 +72,10 @@ def main():
         else:
             meta = get_sspm_metadata(file_path)
             if meta:
+                if meta.get("difficulty", 4) == -1 :
+                    difficulty = 0
+                else:
+                    difficulty = meta.get("difficulty", 4)
                 new_index[file_id] = {
                     "id": meta["id"],
                     "name": meta["name"],
@@ -79,7 +83,7 @@ def main():
                     "author": meta["author"],
                     "download": GITHUB_RAW_BASE + filename,
                     "version": 1,
-                    "difficulty": meta.get("difficulty", 4),
+                    "difficulty": difficulty,
                     "difficulty_name": "LOGIC?",
                     "stars": 0,
                     "has_cover": False,
