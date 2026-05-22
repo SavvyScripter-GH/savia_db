@@ -1,6 +1,6 @@
 # MOST IMPORTANT
 1. fix vr
-2. ~~ fix auto update 
+2. ~~fix auto update~~ 
 3. make maps load faster
 4. goon mode
 __________
