@@ -11,3 +11,8 @@ __________
 3. find a way to make savvy difficulty not crash the game
 4. logo change to something new
 __________
+
+# EXTRA IDEAS
+1. hard mode (like sound space not hard rock)
+2. stats area (playtime, notes hit, maps played, etc)
+3. strobe modifier (also like sound space)
