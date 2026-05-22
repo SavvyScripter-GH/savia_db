@@ -78,6 +78,7 @@ def main():
                     "song": meta.get("song", meta["name"]),
                     "author": meta["author"],
                     "download": GITHUB_RAW_BASE + filename,
+                    "version": 1,
                     "difficulty": meta.get("difficulty", 4),
                     "difficulty_name": "LOGIC?",
                     "stars": 0,
