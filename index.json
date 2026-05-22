@@ -1,4 +1,30 @@
 {
+  "vanfi arcw - hyperbaiter - kim jung goon": {
+    "id": "vanfi arcw - hyperbaiter - kim jung goon",
+    "download": "https://raw.githubusercontent.com/SavvyScripter-GH/savia_db/refs/heads/main/maps/rhythia-1a4a6717-5033-4722-8c81-be184d689f19-1771721373879.sspm",
+    "version": 1,
+    "name": "Hyperbaiter - Kim Jung Goon",
+    "song": "Hyperbaiter - Kim Jung Goon",
+    "author": [
+      "azer"
+    ],
+    "difficulty": 4,
+    "difficulty_name": "\u52a9",
+    "stars": 0,
+    "length_ms": 354316,
+    "note_count": 4444,
+    "has_cover": false,
+    "broken": false,
+    "tags": [
+      "ss_archive"
+    ],
+    "content_warnings": [],
+    "note_data_offset": 5698631,
+    "note_data_length": 37640,
+    "music_format": "mp3",
+    "music_offset": 321,
+    "music_length": 5698296
+  },
   "ssqe_export_-_allusionist_-_7_7_-_shizumu_~(emi)(kyoki)": {
     "id": "ssqe_export_-_allusionist_-_7_7_-_shizumu_~(emi)(kyoki)",
     "download": "https://raw.githubusercontent.com/SavvyScripter-GH/savia_db/refs/heads/main/maps/ssqe_export_-_allusionist_-_7_7_-_shizumu_~(emi)(kyoki).sspm",
