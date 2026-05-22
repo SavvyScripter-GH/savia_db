@@ -1,5 +1,31 @@
 {
   "dyamodash_vs_-_sailor_of_extratone-14400bpm": {
+    "id": "azer_amen-chan_-_you_are_the_crystal_gems_i_am_not",
+    "download": "https://cdn.rhythia.net/maps/dyamodash_vs_-_sailor_of_extratone-14400bpm.sspm",
+    "version": 1,
+    "name": "AMEN-chan - you are the crystal gems (I am not)",
+    "song": "AMEN-chan - you are the crystal gems (I am not)",
+    "author": [
+      "DyamoDash"
+    ],
+    "difficulty": 3,
+    "difficulty_name": "LOGIC?",
+    "stars": 0,
+    "length_ms": 354316,
+    "note_count": 4444,
+    "has_cover": false,
+    "broken": false,
+    "tags": [
+      "ss_archive"
+    ],
+    "content_warnings": [],
+    "note_data_offset": 5698631,
+    "note_data_length": 37640,
+    "music_format": "mp3",
+    "music_offset": 321,
+    "music_length": 5698296
+  },
+  "dyamodash_vs_-_sailor_of_extratone-14400bpm": {
     "id": "dyamodash_vs_-_sailor_of_extratone-14400bpm",
     "download": "https://cdn.rhythia.net/maps/dyamodash_vs_-_sailor_of_extratone-14400bpm.sspm",
     "version": 1,
