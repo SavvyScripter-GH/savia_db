@@ -79,7 +79,7 @@ def main():
                     "author": meta["author"],
                     "download": GITHUB_RAW_BASE + filename,
                     "difficulty": meta.get("difficulty", 4),
-                    "difficulty_name": "Custom",
+                    "difficulty_name": "LOGIC?",
                     "stars": 0,
                     "has_cover": False,
                     "tags": ["ss_archive"],
