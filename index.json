@@ -2883,6 +2883,11 @@
     }
   },
   "colorsets": {
+    "iehl_boop_txt": {
+      "id": "iehl_boop_txt",
+      "name": "- iehl 「boop 」.txt",
+      "download": "https://raw.githubusercontent.com/SavvyScripter-GH/savia_db/main/colorsets/-%20iehl%20%E3%80%8Cboop%20%E3%80%8D.txt"
+    },
     "rainbow_freeze2": {
       "id": "rainbow_freeze2",
       "name": "rainbow freeze2",
