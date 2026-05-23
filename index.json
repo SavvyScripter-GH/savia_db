@@ -41,6 +41,26 @@
     "note_data_offset": 613615449372098562,
     "note_data_length": 282574488666112
   },
+  "blusive_xxxlolxxx_i_am_not_mad": {
+    "id": "blusive_xxxlolxxx_i_am_not_mad",
+    "name": "xxxlolxxx - I AM NOT MAD",
+    "song": "Artist Name - Song Name",
+    "author": [
+      "blusive"
+    ],
+    "download": "https://raw.githubusercontent.com/SavvyScripter-GH/savia_db/main/maps/blusive_xxxlolxxx_-_i_am_not_mad.sspm",
+    "version": 2,
+    "difficulty": 4,
+    "difficulty_name": "LOGIC?",
+    "stars": 0,
+    "note_count": 3767,
+    "length_ms": 128690,
+    "music_format": "mp3",
+    "music_offset": 8700859546490956259,
+    "music_length": 17776523298552182802,
+    "note_data_offset": 1060316237515915265,
+    "note_data_length": 282574488666112
+  },
   "daniggerman_dj_can_i_have_dj_role": {
     "id": "daniggerman_dj_can_i_have_dj_role",
     "name": "DJ - Can I have DJ ROLE",
