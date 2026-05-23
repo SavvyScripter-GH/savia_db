@@ -59,6 +59,26 @@
     "note_data_offset": 596164000811974659,
     "note_data_length": 282574488666112
   },
+  "kauhtyscrptcken_ambatukam_termuwani_sped_up_feat_dj_nansuya_dj_likin_breat": {
+    "id": "kauhtyscrptcken_ambatukam_termuwani_sped_up_feat_dj_nansuya_dj_likin_breat",
+    "name": "\r\nAmbatukam Termuwani Sped Up (feat. DJ Nansuya & DJ Likin Breat)",
+    "song": "\r\nAmbatukam Termuwani Sped Up (feat. DJ Nansuya & DJ Likin Breat)",
+    "author": [
+      "KauhtyScrptcken"
+    ],
+    "download": "https://raw.githubusercontent.com/SavvyScripter-GH/savia_db/main/maps/kauhtyscrptcken%20-%20__ambatukam%20termuwani%20sped%20up%20_feat_%20dj%20nansuya%20_%20dj%20likin%20breat_.sspm",
+    "version": 2,
+    "difficulty": 4,
+    "difficulty_name": "LOGIC?",
+    "stars": 0,
+    "note_count": 67676,
+    "length_ms": 172373,
+    "music_format": "mp3",
+    "music_offset": 17032190985643834952,
+    "music_length": 11625394010090423321,
+    "note_data_offset": 602356454596018178,
+    "note_data_length": 282574488666113
+  },
   "minty_igorr_brutal_swing": {
     "id": "minty_igorr_brutal_swing",
     "name": "Igorr - Brutal Swing",
