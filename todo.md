@@ -12,6 +12,7 @@ __________
 4. logo change to something new
 5. keybind switcher
 6. add vulnus judgement back when on 58 hit window
+7. fix earthquake and 360 bug
 __________
 
 # EXTRA IDEAS
