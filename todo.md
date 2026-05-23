@@ -5,6 +5,7 @@
 4. goon mode
 5. steam opacity
 6. map new add notif
+7. online tab
 __________
 
 # NOT THAT IMPORTANT BUT STILL SHOULD ADD
