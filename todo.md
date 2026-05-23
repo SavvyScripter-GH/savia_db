@@ -4,6 +4,7 @@
 3. make maps load faster
 4. goon mode
 5. steam opacity
+6. map new add notif
 __________
 
 # NOT THAT IMPORTANT BUT STILL SHOULD ADD
