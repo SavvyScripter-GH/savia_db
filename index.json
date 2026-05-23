@@ -1,4 +1,26 @@
 {
+  "alter_brecken_dj_dj_can_i_have_dj_role_full": {
+    "id": "alter_brecken_dj_dj_can_i_have_dj_role_full",
+    "name": "DJ - Can I Have DJ Role (FULL)",
+    "song": "DJ - Can I Have DJ Role (FULL)",
+    "author": [
+      "Alter",
+      "Brecken",
+      "DJ"
+    ],
+    "download": "https://raw.githubusercontent.com/SavvyScripter-GH/savia_db/main/maps/alter_brecken_dj_-_dj_-_can_i_have_dj_role__full_.sspm",
+    "version": 2,
+    "difficulty": 4,
+    "difficulty_name": "LOGIC?",
+    "stars": 0,
+    "note_count": 9263,
+    "length_ms": 287511,
+    "music_format": "mp3",
+    "music_offset": 0,
+    "music_length": 7140175734219210752,
+    "note_data_offset": 2607584184854577156,
+    "note_data_length": 282574488666112
+  },
   "azer_amen_chan_you_are_the_crystal_gems_i_am_not": {
     "id": "azer_amen_chan_you_are_the_crystal_gems_i_am_not",
     "name": "AMEN-chan - you are the crystal gems (I am not)",
