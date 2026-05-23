@@ -1,8 +1,10 @@
 # MOST IMPORTANT
 1. fix vr
-2. ~~fix auto update~~ 
+2. fix auto update
 3. make maps load faster
 4. goon mode
+5. steam opacity
+6. map new add notif
 __________
 
 # NOT THAT IMPORTANT BUT STILL SHOULD ADD
@@ -12,6 +14,7 @@ __________
 4. logo change to something new
 5. keybind switcher
 6. add vulnus judgement back when on 58 hit window
+7. fix earthquake and 360 bug
 __________
 
 # EXTRA IDEAS
