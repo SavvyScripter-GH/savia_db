@@ -2883,10 +2883,25 @@
     }
   },
   "colorsets": {
+    "iehl_banana_blueberry_txt": {
+      "id": "iehl_banana_blueberry_txt",
+      "name": "- iehl 「Banana Blueberry 」.txt",
+      "download": "https://raw.githubusercontent.com/SavvyScripter-GH/savia_db/main/colorsets/-%20iehl%20%E3%80%8CBanana%20Blueberry%20%E3%80%8D.txt"
+    },
     "iehl_boop_txt": {
       "id": "iehl_boop_txt",
       "name": "- iehl 「boop 」.txt",
       "download": "https://raw.githubusercontent.com/SavvyScripter-GH/savia_db/main/colorsets/-%20iehl%20%E3%80%8Cboop%20%E3%80%8D.txt"
+    },
+    "iehl_diorite_txt": {
+      "id": "iehl_diorite_txt",
+      "name": "- iehl 「Diorite 」.txt",
+      "download": "https://raw.githubusercontent.com/SavvyScripter-GH/savia_db/main/colorsets/-%20iehl%20%E3%80%8CDiorite%20%E3%80%8D.txt"
+    },
+    "iehl_ocean_txt": {
+      "id": "iehl_ocean_txt",
+      "name": "- iehl 「Ocean 」.txt",
+      "download": "https://raw.githubusercontent.com/SavvyScripter-GH/savia_db/main/colorsets/-%20iehl%20%E3%80%8COcean%20%E3%80%8D.txt"
     },
     "rainbow_freeze2": {
       "id": "rainbow_freeze2",
