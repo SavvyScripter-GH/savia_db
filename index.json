@@ -119,6 +119,26 @@
     "note_data_offset": 2253207189093416963,
     "note_data_length": 282574488666112
   },
+  "ssqe_export_azer_panda_eyes_colorblind": {
+    "id": "ssqe_export_azer_panda_eyes_colorblind",
+    "name": "Panda Eyes - Colorblind",
+    "song": "Panda Eyes - Colorblind",
+    "author": [
+      "azer"
+    ],
+    "download": "https://raw.githubusercontent.com/SavvyScripter-GH/savia_db/main/maps/ssqe_export_-_azer_-_panda_eyes_-_colorblind.sspm",
+    "version": 2,
+    "difficulty": 4,
+    "difficulty_name": "LOGIC?",
+    "stars": 0,
+    "note_count": 8523,
+    "length_ms": 284633,
+    "music_format": "mp3",
+    "music_offset": 2375730949970410949,
+    "music_length": 6330173134818303140,
+    "note_data_offset": 2399011227063484420,
+    "note_data_length": 282574488666112
+  },
   "vanfi_arcw_hyperbaiter_kim_jung_goon": {
     "id": "vanfi_arcw_hyperbaiter_kim_jung_goon",
     "name": "Hyperbaiter - Kim Jung Goon",
