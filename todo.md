@@ -6,6 +6,8 @@
 5. steam opacity
 6. map new add notif
 7. online tab
+8. alt volume knobs
+8. better DRP
 __________
 
 # NOT THAT IMPORTANT BUT STILL SHOULD ADD

@@ -12,7 +12,7 @@ def sanitize_id(name):
     clean = name.lower()
     clean = re.sub(r'[^a-z0-9_]', '_', clean)
     clean = re.sub(r'_+', '_', clean)
-    return clean.strip('_')
+    return name#clean.strip('_')
 
 def get_sspm_metadata(filepath):
     try:
