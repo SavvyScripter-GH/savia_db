@@ -9,9 +9,9 @@ OUTPUT_FILE = "index.json"
 GITHUB_RAW_BASE = "https://raw.githubusercontent.com/SavvyScripter-GH/savia_db/main/maps/"
 
 def sanitize_id(name):
-    clean = name.lower()
-    clean = re.sub(r'[^a-z0-9_]', '_', clean)
-    clean = re.sub(r'_+', '_', clean)
+    #clean = name.lower()
+    #clean = re.sub(r'[^a-z0-9_]', '_', clean)
+    #clean = re.sub(r'_+', '_', clean)
     return name#clean.strip('_')
 
 def get_sspm_metadata(filepath):
