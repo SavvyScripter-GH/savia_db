@@ -2888,25 +2888,190 @@
       "name": "- iehl 「Banana Blueberry 」.txt",
       "download": "https://raw.githubusercontent.com/SavvyScripter-GH/savia_db/main/colorsets/-%20iehl%20%E3%80%8CBanana%20Blueberry%20%E3%80%8D.txt"
     },
+    "iehl_bloom_txt": {
+      "id": "iehl_bloom_txt",
+      "name": "- iehl 「Bloom 」.txt",
+      "download": "https://raw.githubusercontent.com/SavvyScripter-GH/savia_db/main/colorsets/-%20iehl%20%E3%80%8CBloom%20%E3%80%8D.txt"
+    },
     "iehl_boop_txt": {
       "id": "iehl_boop_txt",
       "name": "- iehl 「boop 」.txt",
       "download": "https://raw.githubusercontent.com/SavvyScripter-GH/savia_db/main/colorsets/-%20iehl%20%E3%80%8Cboop%20%E3%80%8D.txt"
+    },
+    "iehl_bright_txt": {
+      "id": "iehl_bright_txt",
+      "name": "- iehl 「Bright 」.txt",
+      "download": "https://raw.githubusercontent.com/SavvyScripter-GH/savia_db/main/colorsets/-%20iehl%20%E3%80%8CBright%20%E3%80%8D.txt"
+    },
+    "iehl_cherry_txt": {
+      "id": "iehl_cherry_txt",
+      "name": "- iehl 「Cherry 」.txt",
+      "download": "https://raw.githubusercontent.com/SavvyScripter-GH/savia_db/main/colorsets/-%20iehl%20%E3%80%8CCherry%20%E3%80%8D.txt"
+    },
+    "iehl_contrast_txt": {
+      "id": "iehl_contrast_txt",
+      "name": "- iehl 「Contrast 」.txt",
+      "download": "https://raw.githubusercontent.com/SavvyScripter-GH/savia_db/main/colorsets/-%20iehl%20%E3%80%8CContrast%20%E3%80%8D.txt"
     },
     "iehl_diorite_txt": {
       "id": "iehl_diorite_txt",
       "name": "- iehl 「Diorite 」.txt",
       "download": "https://raw.githubusercontent.com/SavvyScripter-GH/savia_db/main/colorsets/-%20iehl%20%E3%80%8CDiorite%20%E3%80%8D.txt"
     },
+    "iehl_huewheel_pastel_txt": {
+      "id": "iehl_huewheel_pastel_txt",
+      "name": "- iehl 「Huewheel Pastel 」.txt",
+      "download": "https://raw.githubusercontent.com/SavvyScripter-GH/savia_db/main/colorsets/-%20iehl%20%E3%80%8CHuewheel%20Pastel%20%E3%80%8D.txt"
+    },
     "iehl_ocean_txt": {
       "id": "iehl_ocean_txt",
       "name": "- iehl 「Ocean 」.txt",
       "download": "https://raw.githubusercontent.com/SavvyScripter-GH/savia_db/main/colorsets/-%20iehl%20%E3%80%8COcean%20%E3%80%8D.txt"
     },
+    "iehl_petals_txt": {
+      "id": "iehl_petals_txt",
+      "name": "- iehl 「Petals 」.txt",
+      "download": "https://raw.githubusercontent.com/SavvyScripter-GH/savia_db/main/colorsets/-%20iehl%20%E3%80%8CPetals%20%E3%80%8D.txt"
+    },
+    "iehl_ruby_txt": {
+      "id": "iehl_ruby_txt",
+      "name": "- iehl 「Ruby 」.txt",
+      "download": "https://raw.githubusercontent.com/SavvyScripter-GH/savia_db/main/colorsets/-%20iehl%20%E3%80%8CRuby%20%E3%80%8D.txt"
+    },
+    "iehl_seoul_txt": {
+      "id": "iehl_seoul_txt",
+      "name": "- iehl 「Seoul 」.txt",
+      "download": "https://raw.githubusercontent.com/SavvyScripter-GH/savia_db/main/colorsets/-%20iehl%20%E3%80%8CSeoul%20%E3%80%8D.txt"
+    },
+    "iehl_sharks_txt": {
+      "id": "iehl_sharks_txt",
+      "name": "- iehl 「Sharks 」.txt",
+      "download": "https://raw.githubusercontent.com/SavvyScripter-GH/savia_db/main/colorsets/-%20iehl%20%E3%80%8CSharks%20%E3%80%8D.txt"
+    },
+    "iehl_skittles_txt": {
+      "id": "iehl_skittles_txt",
+      "name": "- iehl 「Skittles 」.txt",
+      "download": "https://raw.githubusercontent.com/SavvyScripter-GH/savia_db/main/colorsets/-%20iehl%20%E3%80%8CSkittles%20%E3%80%8D.txt"
+    },
+    "azer_png_44_44_txt": {
+      "id": "azer_png_44_44_txt",
+      "name": "azer.png (44, 44).txt",
+      "download": "https://raw.githubusercontent.com/SavvyScripter-GH/savia_db/main/colorsets/azer.png_%2844%2C%2044%29.txt"
+    },
+    "azercam_png_44_44_txt": {
+      "id": "azercam_png_44_44_txt",
+      "name": "azercam.png (44, 44).txt",
+      "download": "https://raw.githubusercontent.com/SavvyScripter-GH/savia_db/main/colorsets/azercam.png_%2844%2C%2044%29.txt"
+    },
+    "azerv2_png_44_44_txt": {
+      "id": "azerv2_png_44_44_txt",
+      "name": "azerv2.png (44, 44).txt",
+      "download": "https://raw.githubusercontent.com/SavvyScripter-GH/savia_db/main/colorsets/azerv2.png_%2844%2C%2044%29.txt"
+    },
+    "caf_au_lait_txt": {
+      "id": "caf_au_lait_txt",
+      "name": "Café au lait.txt",
+      "download": "https://raw.githubusercontent.com/SavvyScripter-GH/savia_db/main/colorsets/Caf%C3%A9%20au%20lait.txt"
+    },
+    "ciem_s_choice_txt": {
+      "id": "ciem_s_choice_txt",
+      "name": "Ciem's choice.txt",
+      "download": "https://raw.githubusercontent.com/SavvyScripter-GH/savia_db/main/colorsets/Ciem%27s%20choice.txt"
+    },
+    "creeper_txt": {
+      "id": "creeper_txt",
+      "name": "Creeper.txt",
+      "download": "https://raw.githubusercontent.com/SavvyScripter-GH/savia_db/main/colorsets/Creeper.txt"
+    },
+    "diamond_sword_txt": {
+      "id": "diamond_sword_txt",
+      "name": "Diamond Sword.txt",
+      "download": "https://raw.githubusercontent.com/SavvyScripter-GH/savia_db/main/colorsets/Diamond%20Sword.txt"
+    },
+    "doggie_png_44_44_txt": {
+      "id": "doggie_png_44_44_txt",
+      "name": "doggie.png (44, 44).txt",
+      "download": "https://raw.githubusercontent.com/SavvyScripter-GH/savia_db/main/colorsets/doggie.png_%2844%2C%2044%29.txt"
+    },
+    "flint_and_steel_txt": {
+      "id": "flint_and_steel_txt",
+      "name": "Flint and Steel.txt",
+      "download": "https://raw.githubusercontent.com/SavvyScripter-GH/savia_db/main/colorsets/Flint%20and%20Steel.txt"
+    },
+    "invis_txt": {
+      "id": "invis_txt",
+      "name": "invis.txt",
+      "download": "https://raw.githubusercontent.com/SavvyScripter-GH/savia_db/main/colorsets/invis.txt"
+    },
+    "lazar_png_44_44_txt": {
+      "id": "lazar_png_44_44_txt",
+      "name": "lazar.png (44, 44).txt",
+      "download": "https://raw.githubusercontent.com/SavvyScripter-GH/savia_db/main/colorsets/lazar.png_%2844%2C%2044%29.txt"
+    },
+    "meoww_txt": {
+      "id": "meoww_txt",
+      "name": "meoww.txt",
+      "download": "https://raw.githubusercontent.com/SavvyScripter-GH/savia_db/main/colorsets/meoww.txt"
+    },
+    "nether_portal_29_png_32_32_txt": {
+      "id": "nether_portal_29_png_32_32_txt",
+      "name": "Nether portal 29.png (32, 32).txt",
+      "download": "https://raw.githubusercontent.com/SavvyScripter-GH/savia_db/main/colorsets/Nether_portal_29.png_%2832%2C%2032%29.txt"
+    },
+    "nether_portal_29_png_44_44_txt": {
+      "id": "nether_portal_29_png_44_44_txt",
+      "name": "Nether portal 29.png (44, 44).txt",
+      "download": "https://raw.githubusercontent.com/SavvyScripter-GH/savia_db/main/colorsets/Nether_portal_29.png_%2844%2C%2044%29.txt"
+    },
+    "rainbow_freeze_copy_txt": {
+      "id": "rainbow_freeze_copy_txt",
+      "name": "Rainbow Freeze - Copy.txt",
+      "download": "https://raw.githubusercontent.com/SavvyScripter-GH/savia_db/main/colorsets/Rainbow%20Freeze%20-%20Copy.txt"
+    },
+    "rainbow_freeze_invert_txt": {
+      "id": "rainbow_freeze_invert_txt",
+      "name": "Rainbow Freeze invert.txt",
+      "download": "https://raw.githubusercontent.com/SavvyScripter-GH/savia_db/main/colorsets/Rainbow%20Freeze%20invert.txt"
+    },
+    "rainbow_freeze_txt": {
+      "id": "rainbow_freeze_txt",
+      "name": "Rainbow Freeze.txt",
+      "download": "https://raw.githubusercontent.com/SavvyScripter-GH/savia_db/main/colorsets/Rainbow%20Freeze.txt"
+    },
+    "rainbow_multi_colors_32x32_txt": {
+      "id": "rainbow_multi_colors_32x32_txt",
+      "name": "rainbow-multi-colors 32x32.txt",
+      "download": "https://raw.githubusercontent.com/SavvyScripter-GH/savia_db/main/colorsets/rainbow-multi-colors_32x32.txt"
+    },
     "rainbow_freeze2": {
       "id": "rainbow_freeze2",
       "name": "rainbow freeze2",
       "download": "https://raw.githubusercontent.com/SavvyScripter-GH/savia_db/main/colorsets/rainbow_freeze2"
+    },
+    "screenshot_2025_03_08_230441_32x32_txt": {
+      "id": "screenshot_2025_03_08_230441_32x32_txt",
+      "name": "Screenshot 2025-03-08 230441 32x32.txt",
+      "download": "https://raw.githubusercontent.com/SavvyScripter-GH/savia_db/main/colorsets/Screenshot_2025-03-08_230441_32x32.txt"
+    },
+    "setup_txt": {
+      "id": "setup_txt",
+      "name": "setup.txt",
+      "download": "https://raw.githubusercontent.com/SavvyScripter-GH/savia_db/main/colorsets/setup.txt"
+    },
+    "spotify_logo_png_44_44_txt": {
+      "id": "spotify_logo_png_44_44_txt",
+      "name": "spotify logo.png (44, 44).txt",
+      "download": "https://raw.githubusercontent.com/SavvyScripter-GH/savia_db/main/colorsets/spotify_logo.png_%2844%2C%2044%29.txt"
+    },
+    "tonepups_choice_txt": {
+      "id": "tonepups_choice_txt",
+      "name": "Tonepups choice.txt",
+      "download": "https://raw.githubusercontent.com/SavvyScripter-GH/savia_db/main/colorsets/Tonepups_choice.txt"
+    },
+    "youtube_logo_png_44_44_txt": {
+      "id": "youtube_logo_png_44_44_txt",
+      "name": "youtube logo.png (44, 44).txt",
+      "download": "https://raw.githubusercontent.com/SavvyScripter-GH/savia_db/main/colorsets/youtube_logo.png_%2844%2C%2044%29.txt"
     }
   }
 }
