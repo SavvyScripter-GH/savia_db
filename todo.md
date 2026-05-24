@@ -17,7 +17,7 @@ __________
 6. add vulnus judgement back when on 58 hit window
 7. fix earthquake and 360 bug
 8. stars
-9. add slider thing
+9. ~~add slider thing~~
 __________
 
 # EXTRA IDEAS
