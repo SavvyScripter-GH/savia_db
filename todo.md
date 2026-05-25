@@ -8,6 +8,7 @@
 7. online tab
 8. alt volume knobs
 8. better DRP
+9. mouse opacity
 __________
 
 # NOT THAT IMPORTANT BUT STILL SHOULD ADD
