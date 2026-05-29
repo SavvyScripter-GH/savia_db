@@ -8,6 +8,9 @@
 7. online tab
 8. alt volume knobs
 8. better DRP
+9. cursor trail opacity fix
+10. background color
+11. 
 __________
 
 # NOT THAT IMPORTANT BUT STILL SHOULD ADD
