@@ -9,6 +9,7 @@
 8. alt volume knobs
 8. better DRP
 9. cursor trail opacity fix
+9. mouse opacity
 10. background color
 11. 
 __________
