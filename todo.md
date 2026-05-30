@@ -28,3 +28,7 @@ __________
 > 1. hard mode (like sound space not hard rock)
 > 1. stats area (playtime, notes hit, maps played, etc)
 > 1. ~~strobe modifier (also like sound space)~~
+
+
+## VR FIXES
+> 1. ray angle
