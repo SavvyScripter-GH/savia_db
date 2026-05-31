@@ -10,6 +10,7 @@
 > 1. better DRP
 > 1. cursor trail opacity fix
 > 1. background color
+> 1. add all things i deleted back
 __________
 
 ## NOT THAT IMPORTANT BUT STILL SHOULD ADD
