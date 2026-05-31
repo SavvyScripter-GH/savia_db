@@ -3839,6 +3839,26 @@
     "note_data_offset": 593912200997765121,
     "note_data_length": 282574488666112
   },
+  "oralex_underscore_-_reality_is_decayingworld_end": {
+    "id": "oralex_underscore_-_reality_is_decayingworld_end",
+    "name": "Underscore - reality is decaying\\\\world end",
+    "song": "Artist Name - Song Name",
+    "author": [
+      "OrAlex"
+    ],
+    "download": "https://raw.githubusercontent.com/SavvyScripter-GH/savia_db/main/maps/oralex_underscore_-_reality_is_decayingworld_end.sspm",
+    "version": 2,
+    "difficulty": 4,
+    "difficulty_name": "LOGIC?",
+    "stars": 0,
+    "note_count": 10535,
+    "length_ms": 375158,
+    "music_format": "mp3",
+    "music_offset": 10733932998597382047,
+    "music_length": 13364090848289592047,
+    "note_data_offset": 2965338880337182725,
+    "note_data_length": 282574488666112
+  },
   "rak - igorrr - cicadidae": {
     "id": "rak - igorrr - cicadidae",
     "name": "Igorrr - Cicadidae",

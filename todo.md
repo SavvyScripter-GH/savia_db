@@ -22,6 +22,8 @@ __________
 > 1. fix earthquake and 360 bug
 > 1. stars
 > 1. ~~add slider thing~~
+> 1. random modifiers mid game modifier
+> 1. better mesh viewer
 __________
 
 ## EXTRA IDEAS
